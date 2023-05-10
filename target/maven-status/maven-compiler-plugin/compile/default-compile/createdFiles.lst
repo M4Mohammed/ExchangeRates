@@ -1,0 +1,13 @@
+taco\wallmartcurrency\entity\CurrencyFluctuation.class
+taco\wallmartcurrency\controller\FluctuationController.class
+taco\wallmartcurrency\entity\ExchangeQuery.class
+taco\wallmartcurrency\entity\ExchangeInfo.class
+taco\wallmartcurrency\WallmartCurrencyApplication.class
+taco\wallmartcurrency\proxy\FluctuationAPI.class
+taco\wallmartcurrency\controller\HomeController.class
+taco\wallmartcurrency\controller\FluctuationService.class
+taco\wallmartcurrency\entity\ExchangeResponse.class
+taco\wallmartcurrency\service\ExchangeService.class
+taco\wallmartcurrency\controller\ExchangeController.class
+taco\wallmartcurrency\proxy\ExchangeAPI.class
+taco\wallmartcurrency\entity\Rate.class
